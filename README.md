@@ -10,6 +10,8 @@ Proje 3
 
 ÇÖZÜM:
 
+Root 7'dir. Root'un solunda 5,1,6,0,1,2 ve 4 bulunur. Root'un sağında ise 8 ve 9 bulunur.
+
                 7
               /  \
              5    8
